@@ -1,0 +1,51 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.navbar{
+ background-color: rgb(8, 7, 7);
+
+ text-decoration: solid;
+}
+
+.nav{
+    justify-content: space-between;
+    height: 120px;
+    color: white;
+ 
+   
+}
+
+.nav-item{
+    color: white;
+    line-height: 60px;
+    justify-content: space-between;
+    margin: 0 18px;
+     
+   
+}
+
+.icono{line-height: 90px;}
+
+.hola{
+    
+}
+
+
+footer{
+    background-color: rgb(162, 129, 129);
+    height: auto;
+    width: auto;
+    font-family: helvetica;
+    padding-top: 40px;
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
